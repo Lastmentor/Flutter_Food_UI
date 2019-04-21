@@ -1,2 +1,8 @@
-# Flutter_Food_UI
-A template for food page UI
+# flutter_food_store
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
